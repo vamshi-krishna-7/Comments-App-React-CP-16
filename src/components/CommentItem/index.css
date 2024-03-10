@@ -1,0 +1,109 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+
+.comment-container {
+  display: flex;
+}
+
+.name-initial {
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: Roboto;
+  border-radius: 30px;
+  height: 28px;
+  width: 28px;
+  padding-left: 10px;
+  padding-top: 6px;
+  margin-top: 15px;
+}
+
+.name-container {
+  padding-left: 8px;
+}
+
+.username-time-container {
+  display: flex;
+  align-items: center;
+  margin-top: 22px;
+  margin-bottom: 15px;
+}
+
+.name {
+  color: #1e293b;
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+
+.time {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 300;
+  padding-left: 20px;
+}
+
+.comment {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 500;
+  padding-top: 0;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.like-text {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 300;
+  padding-left: 6px;
+}
+
+.break-line {
+  color: #94a3b8;
+  background-color: 100%;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.btnClassName {
+  color: #0ea5e9;
+}
